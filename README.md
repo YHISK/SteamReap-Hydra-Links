@@ -1,9 +1,9 @@
 # SteamReap-Hydra-Links
 ## Español
-El fin de este repositorio es facilitar el acceso a links de la pagina Steamrip para ser utilizados en el programa Hydra. Ningún link en este archivo es propiedad mía, yo solo busco los links y los recopilo para su fácil acceso
+Yo quería hacer una lista con links de descarga de los juegos que Steamrip tiene en su pagina. Pero por el momento no es posible ya que Steamrip usa otros sitios diferentes a torrent para almacenar sus archivos y la descarga no es compatible con Hydra. Voy a seguir intentando buscar una forma de llevar los archivos de Steamrip a Hydra. Hasta pronto.
 
 ## English
-The purpose of this repository is to facilitate access to links from the Steamrip site for use in the Hydra program. None of the links in this archive are my property, I just look for the links and compile them for easy access.
+I wanted to make a list with download links to the games that Steamrip has on their site. But for the moment it is not possible because Steamrip uses other sites than torrent to store their files and the download is not compatible with Hydra. I will keep trying to find a way to get the Steamrip files to Hydra. See you soon.
 
 ## Português
-O objetivo deste repositório é facilitar o acesso aos links do site Steamrip para uso no programa Hydra. Nenhum dos links deste arquivo é de minha propriedade, eu apenas procuro os links e os compilo para facilitar o acesso.
+Yo quería hacer una lista con links de descarga de los juegos que Steamrip tiene en su pagina. Pero por el momento no es posible ya que Steamrip usa otros sitios diferentes a torrent para almacenar sus archivos y la descarga no es compatible con Hydra. Voy a seguir intentando buscar una forma de llevar los archivos de Steamrip a Hydra. Hasta pronto.
